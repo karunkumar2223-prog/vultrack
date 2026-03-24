@@ -1,0 +1,6 @@
+id,title,severity,status,description,assigned_to,created_at
+1,SQL Injection,critical,open,Found in login form,1002,2026-03-20
+2,Cross-Site Scripting (XSS),high,in progress,Reflected XSS in comments,1003,2026-03-21
+3,Weak Password Policy,medium,resolved,No complexity enforced,1002,2026-03-22
+4,Unpatched Server,critical,open,Missing security updates,1004,2026-03-23
+5,Information Disclosure,low,open,Error messages reveal stack traces,1002,2026-03-24

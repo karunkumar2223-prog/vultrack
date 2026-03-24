@@ -1,0 +1,2 @@
+username,password,role
+user1,$2b$12$hashedpassword,user
